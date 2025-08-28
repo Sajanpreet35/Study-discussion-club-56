@@ -6,11 +6,6 @@
   "background_color": "#ffffff",
   "theme_color": "#6200EE",
   "description": "A platform for students to discuss and prepare for exams together.",
-  "icons": [
-    {
-      "src": "/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "orientation": "portrait",
+  "scope": "/"
 }
