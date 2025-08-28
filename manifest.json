@@ -7,5 +7,13 @@
   "theme_color": "#6200EE",
   "description": "A platform for students to discuss and prepare for exams together.",
   "orientation": "portrait",
-  "scope": "/"
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flat_tick_icon.svg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
